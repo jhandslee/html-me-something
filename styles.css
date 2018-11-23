@@ -1,0 +1,46 @@
+.center {
+	color: red;
+	text-align: center;
+}
+img {
+	height: 200px;
+	width: 200px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#img1 {
+	height: 350px;
+	width: 350px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+	background-color: lightgray;
+}
+h2 {
+	color: brown;
+	text-align: center;
+}
+p {
+	calibri;
+	font-size: 20px
+}
+div {
+	border: 1px solid black;
+	background-color: white;
+    padding-top: 25px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    padding-left: 80px;
+}
+ul {
+    background: #282d33;
+       padding: 20px;
+}
+ul li {
+    background: #eaf4ff;
+    margin: 5px;
+    color: red;
+}
