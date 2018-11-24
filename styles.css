@@ -39,8 +39,7 @@ ul {
     background: #282d33;
        padding: 20px;
 }
-ul li {
+ul li 
     background: #eaf4ff;
     margin: 5px;
-    color: red;
-}
+    color: red;}
